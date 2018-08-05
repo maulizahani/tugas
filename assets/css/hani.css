@@ -1,0 +1,9 @@
+.hani-container {
+	vertical-align: center;
+}
+.hani-card {
+	margin: 20px auto;
+}
+.hani-no-margin-top {
+	margin-top: 5px;
+}
